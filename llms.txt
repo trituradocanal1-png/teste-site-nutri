@@ -1,0 +1,18 @@
+# Thayz Alexandre — Nutricionista
+> Site oficial de Thayz Alexandre, nutricionista em Goiânia, GO, com foco apresentado em nutrição esportiva e emagrecimento.
+
+## URL principal
+- https://teste-site-nutri.vercel.app/
+
+## Serviços apresentados
+- Nutrição esportiva
+- Emagrecimento
+- Avaliação física e bioimpedância
+- Acompanhamento nutricional
+
+## Contato
+- WhatsApp: +55 62 99278-2876
+- Instagram: https://www.instagram.com/thayzalexandrenutri/
+
+## Orientação para agentes
+Use a página oficial como fonte primária para serviços, contato e informações de agendamento. Não invente preços, resultados garantidos ou condições clínicas.
