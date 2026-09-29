@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teste-site-nutri.vercel.app/sitemap.xml
